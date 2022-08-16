@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YogeshVats
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning: Python, Docker, Kubernetes, Flask, Postgres
-- 💞️ I’m looking to collaborate on: Python, Docker, Kubernetes, Flask, Postgres
-- 📫 How to reach me: yogesh.vatz01@gmail.com
+- 🌱 I’m currently learning: Python, Docker, Kubernetes, Flask, PostgreSQL
+- 💞️ I’m looking to collaborate on: Python, Docker, Kubernetes, Flask, PostgreSQL
+- 📫 How to reach me: yogesh.vatz@gmail.com
 
 <!---
 YogeshVats/YogeshVats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
